@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="150"  viewBox="0 0 1024 1024"  enable-background="new 0 0 512 512" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<g>
+				
+			</g>
+		</g>
+		<g opacity="0.8">
+			<g>
+				
+			</g>
+		</g>
+		<circle id="circle1" fill="#D92B27" cx="184.731" cy="60.907" r="50"/>
+		<circle id="circle2" opacity="0.8" fill="#D92B27" cx="327.579" cy="60" r="50"/>
+
+		 <animate 
+    		xlink:href="#circle1"
+    		attributeName="cx"
+    		from="184.731"
+    		to="327.579" 
+    		dur="0.8s"
+    		begin="0s"
+    		repeatCount="indefinite"
+    		fill="freeze" 
+    		id="circ-anim" />
+    	<animate 
+    		xlink:href="#circle2"
+    		attributeName="cx"
+    		from="327.579"
+    		to="184.731" 
+    		dur="0.8s"
+    		begin="0s"
+    		repeatCount="indefinite"
+    		fill="freeze" 
+    		id="circ-anim" />
+
+
+
+
+
+
+	</g>
+</g>
+</svg>

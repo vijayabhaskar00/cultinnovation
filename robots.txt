@@ -1,0 +1,3 @@
+User-agent: *
+Allow: *
+Sitemap: http://uberchallenge.stumagz.com/sitemap.xml
