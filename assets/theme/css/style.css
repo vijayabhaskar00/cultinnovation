@@ -692,8 +692,9 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 .mbr-section-hero::before {
   display: none !important; }
 .mbr-section-hero .mbr-section-title {
-  color: #fff;
-  margin-bottom: 1.6875rem; }
+    color: #070404;
+    margin-bottom: 1.6875rem;
+}
 .mbr-section-hero .mbr-section-lead {
   color: #fff;
   font-family: Lora;
